@@ -4,4 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Second time.
 
+提交
+
 我试一试
