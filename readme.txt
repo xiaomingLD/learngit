@@ -6,6 +6,9 @@ Second time.
 
 Creating a new branch is quick.
 
+Creating a new branch is qucik AND simple.
+
+
 提交
 
 123
